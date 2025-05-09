@@ -20,3 +20,11 @@ h1, h2, h3, h4, h5, h6, p, ul, li, a, span, div, button, input, textarea, label,
     font-weight: 600;
     color: #333;
 }
+
+.comingsoon {
+    font-size: 1.5rem;
+    font-weight: 600;
+    color: #333;
+    text-align: center;
+    margin-top: 20px;
+}
